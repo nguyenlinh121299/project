@@ -1,0 +1,36 @@
+.khung p
+{
+color:  red;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: xx-large;
+}
+#s3{
+    font-family: tahoma;
+     font-size: 12px;
+     text-align: center;
+    height: 200%;
+ }
+ .s1{
+     color: #FFFFFF;
+     background-color: #CC0033;
+ }
+ td, h1{
+     text-align: center;
+ }
+ .s2 {
+     text-align: left;
+ }
+ h1{
+     color: red;
+ }
+ tr
+ {
+     height:45PX ;
+ }
+ tr.s1{
+     height: 50px;
+ }
+ table
+ {
+     border-color: tomato;
+ }

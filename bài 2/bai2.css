@@ -1,0 +1,40 @@
+.header h1
+{
+    text-align: center;
+    color: #006600;
+
+}
+.header h2 
+{
+    color: #0000FF;
+}
+.header1 p 
+{
+    text-align: center;
+    color: #FF3399 ;
+    background-color: #FECFFD;
+    font-weight: bold;
+}
+.content
+{
+     text-align: center;
+    background-color: #FFFFCC;
+   position: relative;
+ 
+}
+hr
+{
+    width: 150px;
+}
+.dv1
+{
+    color: blue;
+}
+.dv2
+{
+    color: brown;
+}
+.dv3
+{
+    color:chartreuse ;
+}

@@ -1,0 +1,20 @@
+#khung1{
+    background-color: red;
+    font-size: 50px;
+    color: white;
+}
+#khung2{
+    background-color: pink;
+    font-size: 50px ;
+    color: #FF0000;
+}
+font{
+    font-weight: 200;
+    font-size: 18px;
+}
+i{
+    font-weight: 150; 
+    font-size: 18px;
+}table{
+    border-color: red;
+}

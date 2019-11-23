@@ -1,0 +1,45 @@
+.khung
+{
+    display: flex;
+    background-color:#FFEDCA;
+    background-size: 100%;
+    padding: 60px 0px;
+    height: 500px;
+    
+}
+.anh
+{
+    margin: 60px;
+}
+.noidung
+{
+    margin: 50px;
+}
+h1
+{
+    color: saddlebrown;
+}
+.noidung table
+{
+   border-color: red ;
+}
+table, th, td{
+    border:1px solid #868585;
+}
+table{
+    border-collapse:collapse;
+    width:100%;
+}
+th, td{
+    text-align:left;
+    padding:10px;
+}
+table tr:nth-child(odd){
+    background-color:#FFEDCA;
+}
+table tr:nth-child(even){
+    background-color:white;
+}
+table tr:nth-child(1){
+    background-color:#CC6600;
+}

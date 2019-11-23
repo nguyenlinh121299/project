@@ -1,0 +1,20 @@
+.header
+{
+
+    color: coral;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    border-style: double;
+}
+.header p 
+{
+    font-size: 40px;
+    size: 40%;
+}
+.content p
+{
+    text-align: right;
+    color: white;
+    background-color: tomato;
+    font-weight: bold;
+}

@@ -1,0 +1,36 @@
+.khung
+{
+display: flex;
+}
+img
+{
+    margin: 100px;
+}
+h1
+{
+    color: rgb(245, 147, 166);
+}
+span
+{
+    color:white;
+    background-color:rgb(245, 147, 166) ;
+}
+.div_noidung a
+{
+    text-decoration: none;
+}
+hr
+{
+    width: 500px;
+}
+.copy
+{
+   
+    margin-top : 300px;
+    background-color: burlywood;
+
+}
+ span
+{
+    color: blue;
+}

@@ -1,0 +1,24 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.khung{
+    padding: 200px 0 0 550px;
+
+}
+h1{ 
+    text-align: center;
+    padding-top: 20px;
+}
+form{
+    border: 2px solid red;
+    padding: 10px;
+    background-color: rgb(203, 215, 236);
+}
+.s2{
+    text-align: center;
+}
+.content{
+    padding: 20px 40px 40px 60px ;
+}

@@ -1,0 +1,17 @@
+.header
+{
+    background-color: #A06D21;
+    height: 650px;
+    background-position: center;
+    background-image: url(anh1.jpg);
+    background-repeat: no-repeat;
+}
+.header h2
+{
+    text-align: center;
+    color: #FFCC00;
+}
+p
+{
+    color: white;
+}
